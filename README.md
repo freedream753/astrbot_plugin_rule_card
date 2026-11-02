@@ -2,7 +2,7 @@
 
 把"规则助手"的规则解释回复自动渲染成 **SCP 风格卡片图片**发送。
 
-适配 [CN]RXSEND 白藏测试服规则解释机器人（[规则知识库](https://github.com/wujunze/rule-explainer-ai)，CC BY-NC-SA 4.0），支持两类卡片：
+适配 [CN]RXSEND 白藏测试服规则解释机器人（[规则知识库](https://github.com/freedream753/baizang-rules-kb)，CC BY-NC-SA 4.0），支持两类卡片：
 
 ```
 规则解释：【结论】【依据】【理由】【处罚】【减责或加重】【还需确认】【下一步】
